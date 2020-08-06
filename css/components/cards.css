@@ -6,7 +6,8 @@
 
 .card-product {
   height: 250px;
-  margin: 15px;
+  width: 200px;
+  margin: 30px;
   color: #555;
   background: white;
   text-shadow: 0 2px 2px #ccc;
