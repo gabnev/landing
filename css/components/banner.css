@@ -26,7 +26,7 @@
 }
 
 .banner a:hover {
-  animation: cool_btn 2s infinite;
+  animation: cool_btn 0.5s infinite;
 }
 
 @keyframes cool_btn {
