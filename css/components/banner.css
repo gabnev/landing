@@ -1,0 +1,19 @@
+.banner {
+  color: white;
+  display: flex; 
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 50px;
+  text-shadow: 0 2px 2px #ccc;
+  box-shadow: 0 2px 2px #ccc;
+}
+
+.banner a {
+  text-decoration: none;
+  cursor: pointer;
+  color: white;
+  background: #1EDD88;
+  padding: 15px;
+  border-radius: 5px;
+}
