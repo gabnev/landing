@@ -12,8 +12,21 @@
 .banner a {
   text-decoration: none;
   cursor: pointer;
-  color: white;
-  background: #1EDD88;
   padding: 15px;
   border-radius: 5px;
+  background: #607fe6;
+  color: white;
+  padding: 15px 25px;
+  border-radius: 4px;
+  font-weight: bold; 
+}
+
+.banner a:hover {
+  animation: cool_btn 2s infinite;
+}
+
+@keyframes cool_btn {
+  0% {background: #607fe6;}
+  50% {background: #9b2bc7;}
+  0% {background: #607fe6;}
 }

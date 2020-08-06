@@ -18,6 +18,7 @@
 
 .footer li:hover {
   opacity: 1;
+  cursor: pointer;
 }
 
 .footer p {
