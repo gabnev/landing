@@ -9,6 +9,10 @@
   box-shadow: 0 2px 2px #ccc;
 }
 
+.banner p {
+  font-size: 18px;
+}
+
 .banner a {
   text-decoration: none;
   cursor: pointer;
